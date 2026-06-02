@@ -20,7 +20,7 @@
 ### What I do
 
 - 🔭 **Building** — **Patho**, an offline-first pathology LIMS (B2B SaaS, multi-lab sync). Held back from release until medical reference ranges are verified.
-- 🚀 **Shipped solo** — three production products, real users, real revenue funnels.
+- 🚀 **Shipped solo** — **[TorqUp](https://torqup.in)** (AI car advisor, 500+ WAU, 179 countries) and **[TayBly](https://taybly.com)** (full education ERP). Real users, real revenue funnels.
 - 🧠 **How I build** — AI-orchestration: I own the architecture and product decisions, direct AI to write the code, and verify with AI-generated adversarial data. Honest framing: *not hand-typed, fully owned.*
 - 🎯 **Looking for** — AI product / engineering roles at early-stage labs.
 
