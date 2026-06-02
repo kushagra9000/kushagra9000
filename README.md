@@ -9,6 +9,12 @@
   <a href="mailto:kushagravs24@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
+<p align="center">
+  <a href="https://torqup.in"><img src="https://img.shields.io/badge/TorqUp-Web-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://play.google.com/store/apps/details?id=com.fluxorlabs.torqup.app"><img src="https://img.shields.io/badge/TorqUp-Android-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white"/></a>
+  <a href="https://taybly.com"><img src="https://img.shields.io/badge/TayBly-Web-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/></a>
+</p>
+
 ---
 
 ### What I do
@@ -23,7 +29,7 @@
 | Product | What it is | Stack | Links |
 |---|---|---|---|
 | **TorqUp** | AI automotive advisor · 500+ WAU · 179 countries · viral share engine | Android + Web · Groq API · Firebase | [Web](https://torqup.in) · [Play Store](https://play.google.com/store/apps/details?id=com.fluxorlabs.torqup.app) |
-| **TayBly** | Education ERP (admissions → academics → finance → exams) · dual-solver timetable engine, 18 constraints | Next.js 16 · Clerk · Neon Postgres + Prisma · Upstash Redis · Timefold/Quarkus · Vercel | [taybly.com](https://taybly.com) |
+| **TayBly** | Education ERP (admissions → academics → finance → exams) · dual-solver timetable engine, 18 constraints | Next.js 16 · Clerk · Neon Postgres + Prisma · Upstash Redis · Timefold/Quarkus · Vercel | [Web](https://taybly.com) |
 | **Patho** | Offline-first pathology LIMS · multi-lab sync · data-rich CMS UX *(in dev)* | B2B SaaS | — |
 
 ### Toolkit
