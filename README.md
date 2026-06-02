@@ -40,8 +40,14 @@ AI dev tooling: Claude Code · Claude API · Groq API · Gemini · Codex · Figm
 ### GitHub stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kushagra9000&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushagra9000&layout=compact&hide_border=true&theme=tokyonight" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kushagra9000&theme=tokyonight" />
+</p>
+<p>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kushagra9000&theme=tokyonight" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kushagra9000&theme=tokyonight" />
+</p>
+<p>
+  <img src="https://streak-stats.demolab.com/?user=kushagra9000&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
