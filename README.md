@@ -32,6 +32,8 @@
 | **TayBly** | Education ERP (admissions → academics → finance → exams) · dual-solver timetable engine, 18 constraints | Next.js 16 · Clerk · Neon Postgres + Prisma · Upstash Redis · Timefold/Quarkus · Vercel | [Web](https://taybly.com) |
 | **Patho** | Offline-first pathology LIMS · multi-lab sync · data-rich CMS UX *(in dev)* | B2B SaaS | — |
 
+> 🔒 **On source code:** these are production products with proprietary architecture, so their repos live in private org accounts — not mirrored to this profile. The apps above are live; happy to give a guided code/architecture walkthrough on request.
+
 ### Toolkit
 
 <p>
