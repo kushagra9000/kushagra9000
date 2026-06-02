@@ -20,11 +20,11 @@
 
 ### Shipped products
 
-| Product | What it is | Stack |
-|---|---|---|
-| **TorqUp** | AI automotive advisor · 500+ WAU · 179 countries · viral share engine | Android + Web · Groq API · Firebase |
-| **TayBly** | Education ERP (admissions → academics → finance → exams) · dual-solver timetable engine, 18 constraints | Next.js 16 · Clerk · Neon Postgres + Prisma · Upstash Redis · Timefold/Quarkus · Vercel |
-| **Patho** | Offline-first pathology LIMS · multi-lab sync · data-rich CMS UX *(in dev)* | B2B SaaS |
+| Product | What it is | Stack | Links |
+|---|---|---|---|
+| **TorqUp** | AI automotive advisor · 500+ WAU · 179 countries · viral share engine | Android + Web · Groq API · Firebase | [Web](https://torqup.in) · [Play Store](https://play.google.com/store/apps/details?id=com.fluxorlabs.torqup.app) |
+| **TayBly** | Education ERP (admissions → academics → finance → exams) · dual-solver timetable engine, 18 constraints | Next.js 16 · Clerk · Neon Postgres + Prisma · Upstash Redis · Timefold/Quarkus · Vercel | [taybly.com](https://taybly.com) |
+| **Patho** | Offline-first pathology LIMS · multi-lab sync · data-rich CMS UX *(in dev)* | B2B SaaS | — |
 
 ### Toolkit
 
